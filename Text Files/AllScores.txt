@@ -1,0 +1,4 @@
+Froggo: 40
+hi: -10
+blank: 30
+oops: -20

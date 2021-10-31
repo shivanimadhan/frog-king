@@ -1,0 +1,110 @@
+-1. If A = 2i - 3j and B = -4i + 2j, compute A + 3B:
+_ -10i + 3j
+_ 2i + j
+_ -2i + j
+_ 10i - 3j
+-2. Two vectors A and B have the same magnitude, m, but vector A points north whereas vector B points east. What is the sum A + B?
+_ m*(sqrt 2), northeast
+_ m, northeast
+_ m*(sqrt 2), northwest
+_ 2m, northwest
+-3. The x-component of vector A is -42 and the angle it makes with the positive x-direction is 130 degrees. What is the y-component of vector A? 
+_ 50.1
+_ -65.3
+_ -50.1
+_ 65.3
+-4. If two non-zero vectors are added together, and the resultant vector is zero, they have ____ magnitude and are pointed in _____ direction(s)?
+_ Equal, opposite
+_ Equal, same
+_ None of the above
+_ Different, opposite
+-5. Both the x- and y-components of a vector are doubled. Which of the following describes what happens to the resulting vector's magnitude and direction?
+_ Magnitude: times 2
+_ Magnitude: times (sqrt 2)
+_ Magnitude: times (sqrt 2), Direction: Changes
+_ Magnitude: times 2, Direction: Changes
+-6. The magnitude of vector A is 10. Which of the following could be the components of A?
+_ A of x = 6, A of y = 8
+_ A of x = 5, A of y = 5
+_ A of x = 7, A of y = 9
+_ A of x = 10, A of y = 10
+-7. If the vector A = i - 2j and the vector B = 4i - 5j, what angle does A + B form with the x-axis?
+_ theta = arctan (7/5)
+_ theta = arctan (3/5)
+_ theta = arcsin (3/5)
+_ theta = arcsin (7/5)
+-8. If f = -20j, g = -10i, and h = 5i + 10j, what is the sum f + g + h?
+_ -5i - 10j
+_ -15i + 10j
+_ 5i
+_ 5i - 10j
+-9. A rock is thrown straight upward from the edge of a 30 m cliff, rising 10 m, then falling all the way down to the base of the cliff. Find the rock's displacement.
+_ 30 m, downward
+_ 40 m, downward
+_ 40 m, upward
+_ 30 m, upward
+-10. In a track-and-field event, an athelete runs exactly once around an oval track, a total distance of 500 m. She completes the lap in 1 minute and 18 seconds. Find the magnitude of her average velocity.
+_ 0 m/s
+_ 7.8 m/s
+_ 6.4 m/s
+_ 78 m/s
+-11. A car is traveling along a straight highway at a speed of 20 m/s. The driver steps on the gas pedal and, 3 seconds later, the car's speed is 32 m/s. Find its average acceleration.
+_ 4 m/s^2
+_ 12 m/s^2
+_ 4 m/s
+_ 3 m/s^2
+-12. How far did the object travel from time 0 s to time 12, given an initial velocity of 5 m/s and a final velocity of 20 m/s?
+_ 150 m
+_ 30 m
+_ 0 m
+_ 120 m
+-13. An object with initial velocity of 4 m/s moves along a straight axis under constatnt acceleration. Three seconds later, its velocity is 14 m/s. How far did it travel during this time?
+_ 27 m
+_ 21 m
+_ 6 m
+_ 84 m
+-14. A rock is dropped off a cliff that's 80 m high. If it strikes the ground with an impact velocity of 40 m/s, what acceleration did it experience during its descent?
+_ 10 m/s^2
+_ -10 m/s^2
+_ 20 m/s^2
+_ -20 m/s^2
+-15. A baseball is thrown straight upward with an initial speed of 20 m/s. How high will it go?
+_ 20 m
+_ -20 m
+_ -40 m
+_ -10 m
+-16. An object is thrown horizontally with an initial speed of 10 m/s. It hits the ground 4 seconds later. How far did it drop in 4 seconds?
+_ -80 m
+_ 9 m
+_ 33 m
+_ -9 m
+-17. An object is projected upward with a 30 degrees launch angle from the ground and an initial speed of 60 m/s. How far will it travel horizontally? Assume it returns to its original height.
+_ 312 m
+_ 180 m
+_ 156 m
+_ 360 m
+-18. An object that's moving with constant speed travels once around a circular path. Which of the following statements is true concerning this motion? 
+_ The displacement is zero.
+_ The average speed is zero.
+_ The acceleration is zero.
+_ The velocity is not changing.
+-19. A baseball is thrown straight upward. What is the ball's acceleration at its highest point?
+_ g, downward
+_ 0.5g, downward
+_ 0.5g, upward
+_ g, upward
+-20. A soccer ball, at rest on the ground, is kicked with an initial velocity of 10 m/s at a launch angle of 30 degrees. Calculate its total flight time, assuming that air resistance is negligible.
+_ 1 s
+_ 0.5 s
+_ 2 s
+_ 4 s
+-21. A projectile is traveling in a parabolic path for a total of 6 seconds. How does its horizontal velocity of 1 s after launch compare to its horizontal velocity 4 s after launch?
+_ There is no acceleration.
+_ It is the same.
+_ It increases by a factor of 2.
+_ It decreases by a factor of 2.
+-22. A car is traveling in a straight line along a highway at a constant speed of 80 miles per hour for 10 seconds. Find its acceleration.
+_ 0 m/s^2
+_ 80 m/s^2
+_ 8 m/s^2
+_ 0.8 m/s^2

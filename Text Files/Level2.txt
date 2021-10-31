@@ -1,0 +1,110 @@
+-1. What net force is required to maintain a 5,000 kg object moving at a constant velocity of magnitude 7,500 m/s?
+_0 N
+_18,750 N
+_500 N
+_750 N
+-2. How much force is required to cause an object of mass 2 kg to have an acceleration of 4 m/s^2
+_8 N
+_4 N
+_2 N
+_0 N
+-3. An object feels two forces: one of strength 8 N pulling to the left and another of strength 20 N pulling to the right. If the object’s mass is 4 kg, what is its acceleration?
+_3 m/s^2
+_2 m/s^2
+_7 m/s^2
+_5 m/s^2
+-4. What is the mass of an object that weighs 500 N?
+_500 kg
+_50 kg
+_5 kg
+_5000 kg
+-5. A person weighs 150 pounds. Given that a pound is a unit of weight equal to 4.45 N, what is this person’s mass?
+_66.75 kg
+_667.5 kg
+_15 kg
+_59.75 kg
+-6. A book whose mass is 2 kg rests on a table. Find the magnitude of the normal force exerted by the table on the book.
+_20 N
+_2 N
+_10 N
+_0.2 N
+-7. A can of paint with mass of 6 kg hangs from a rope. If the can is to be pulled up to a rooftop with an ACCELERATION of 1 m/s^2, what must be the tension in the rope?
+_66 N
+_60 N
+_6 N
+_11 N
+-8. A can of paint with mass of 6 kg hangs from a rope. If the can is to be pulled up to a rooftop with an VELOCITY of 1 m/s^2, what must be the tension in the rope?
+_66 N
+_60 N
+_6 N
+_11 N
+-9. How much tension must a rope have to lift a 50 N object with an acceleration of 10 m/s^2?
+_100 N
+_50 N
+_550 N
+_500 N
+-10. A crate of mass 20 kg is sliding across a wooden floor. The coefficient of kinetic friction between the crate and the floor is 0.3. Determine the strength of the friction force acting on the crate.
+_60 N
+_200 N
+_120 N
+_100 N
+-11. A crate of mass 20 kg is sliding across a wooden floor. The coefficient of kinetic friction between the crate and the floor is 0.3. If the crate is being pulled by a force of 90 N (parallel to the floor), find the acceleration of the crate.
+_1.5 m/s^2
+_30 m/s^2
+_20 m/s^2
+_1.5 m/s
+-12. A block slides down a frictionless, inclined plane that makes a 30 degree angle with the horizontal. Find the acceleration of this block.
+_5 m/s^2
+_10 m/s^2
+_30 m/s^2
+_Not enough information to determine
+-13. A block slides down an inclined plane that makes a 30 degree angle with the horizontal. If the coefficient of kinetic friction is 0.3, find the acceleration of the block,
+_2.4 m/s^2
+_10 m/s^2
+_0.2 m/s^2
+_0.3 m/s^2
+-14. A person standing on a horizontal floor feels two forces: the downward pull of gravity and the upward supporting force from the floor. These two forces have _____ magnitudes and _____ form an action/reaction pair
+_equal, do form
+_equal, do not form
+_unequal, do form
+_unequal, do not form
+-15. A person who weighs 800 N steps on a scale that is on the floor of an elevator car. If the elevator accelerates upward at a rate of 5/s^2, what will the scale read?
+_1,200 N
+_400 N
+_800 N
+_1,000 N
+-16. A frictionless inclined plane of length 20 m has a maximum vertical height of 5 m. If an object of mass 2 kg is placed on the plane, which of the following best approximates the net force it feels?
+_5 N
+_10 N
+_15 N
+_20 N
+-17. A 20 N block is being pushed across a horizontal table by a force of 18 N. If the coefficient of kinetic friction is between the block and the table is 0.4, find the acceleration of the block.
+_5 m/s^2
+_0.5 m/s^2
+_1 m/s^2
+_7.5 m/s^2
+-18. The coefficient of static friction between a box and a ramp is 0.5. The ramp’s incline angle is 30 degrees. If the box is placed at rest on the ramp, the box will do which of the following?
+_Accelerate down the ramp
+_Accelerate briefly but then slow and stop
+_Move down with constant velocity
+_Not move
+-19. If all of the forces acting on an object balance so that the net force is zero, then
+_None of the above
+_The object must be at rest
+_The object’s speed will decrease
+_The object’s direction will change but not its speed
+-20. A block of mass m is at rest on a frictionless, horizontal table placed in a laboratory on the surface of the Earth. An identical block is at rest on a frictionless, horizontal table placed on the surface of the Moon. Let F be the net force necessary to give the Earth-bound block an acceleration of a across the table. Given that gravity on the moon is one-sixth of the gravity on Earth, the force necessary to give the Moon-bound block the same acceleration a across the table is
+_F
+_F/6
+_F/3
+_6F
+-21. A crate of mass 100 kg is at rest on a horizontal floor. The coefficient of static friction between the crate and the floor is 0.4, and the coefficient of kinetic friction is 0.3. A force F of magnitude 344 N is then applied to the crate, parallel to the floor. Which of the following is true?
+_The crate will not move
+_The crate will accelerate across the floor at 0.5 m/s^2
+_The static friction force will have a magnitude of 344 N
+_The crate will slide across the floor at a constant speed of 0.5 m/s
+-22. Two crates are stacked on top of each other on a horizontal floor; Crate #1 is on the bottom and Crate #2 is on the top. Both crates have the same mass. Compared to the strength of the force F1 necessary to push the stack at the same constant speed across the floor is greater than F2 because
+_The normal force on Crate #1 is greater
+_The coefficient of kinetic friction between Crate #1 & the floor is greater
+_The coefficient of static friction between Crate #1 & the floor is greater
+_The weight of Crate #1 is greater
