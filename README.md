@@ -13,6 +13,6 @@ Additionally, the Frog King must avoid enemies, which vary by level. If an enemy
 
 ### Keys
 
-<b>Extend tongue</b>: Space bar
-<b>Move right</b>: Right arrow key
-<b>Move left</b>: Left arrow key
+- <b>Extend tongue</b>: Space bar
+- <b>Move right</b>: Right arrow key
+- <b>Move left</b>: Left arrow key
