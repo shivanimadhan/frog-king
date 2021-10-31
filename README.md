@@ -16,3 +16,11 @@ Additionally, the Frog King must avoid enemies, which vary by level. If an enemy
 - <b>Extend tongue</b>: Space bar
 - <b>Move right</b>: Right arrow key
 - <b>Move left</b>: Left arrow key
+
+## How to Use
+
+1. Download the .java file, Images folder, and Text Files folder.
+2. Move the individual files inside the Images and Text Files folder outside, so everything is in the same place.
+3. Open Terminala and compile the code: <code>javac FrogKing.java</code>.
+4. Run the code: <code>java FrogKing</code>.
+5. Have fun!
