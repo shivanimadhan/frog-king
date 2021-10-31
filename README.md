@@ -20,7 +20,7 @@ Additionally, the Frog King must avoid enemies, which vary by level. If an enemy
 ## How to Use
 
 1. Download the .java file, Images folder, and Text Files folder.
-2. Move the individual files inside the Images and Text Files folder outside, so everything is in the same place.
-3. Open Terminala and compile the code: <code>javac FrogKing.java</code>.
+2. Move the individual files inside the Images and Text Files folder outside, so all of the files are in the same place.
+3. Open your Terminal and compile the code: <code>javac FrogKing.java</code>.
 4. Run the code: <code>java FrogKing</code>.
 5. Have fun!
